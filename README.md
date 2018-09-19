@@ -1,8 +1,7 @@
 ## Bem-vindos a Scratcholândia
 
-O scratch é uma linguagem de programação, onde seu principal foco é ensinar lógica de programação para crianças e adolescentes.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O scratch é uma linguagem de programação, onde o seu principal foco é ensinar lógica de programação para crianças e adolescentes.
+O principal objetivo dessa página é poder passar um pouco do meu conhecido de Scratch e poder tirar dúvidas referentes ao mesmo.
 
 ### Markdown
 
